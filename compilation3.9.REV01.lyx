@@ -285,7 +285,7 @@ an der Universität Göttingen
 \align center
 
 \size larger
-vorgelegt am 8 März 2016 
+vorgelegt am 9 März 2016 
 \end_layout
 
 \begin_layout Standard
@@ -822,6 +822,33 @@ description "Variance Inflation Factor"
 
 \end_layout
 
+\begin_layout Section*
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{section}{Acknowledgements}
+\end_layout
+
+\end_inset
+
+Acknowledgements
+\end_layout
+
+\begin_layout Standard
+To be added.
+\end_layout
+
+\begin_layout Section*
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -1166,7 +1193,7 @@ ity in this topic by showing that the positive relationship between income
 \end_layout
 
 \begin_layout Section*
-\paragraph_spacing single
+\paragraph_spacing double
 Human development through education
 \end_layout
 
@@ -1258,7 +1285,7 @@ That relationship, however, is definitely not in a single direction.
 \end_layout
 
 \begin_layout Subsection*
-\paragraph_spacing single
+\paragraph_spacing double
 Inequality of Opportunity in education
 \end_layout
 
@@ -1275,7 +1302,7 @@ Inequality of opportunity on its own is a relatively lesser explored topic
  The concept of inequality of opportunity, consequently, is the race between
  both of these mutually exclusive factors.
  Theoretically, the presence of equality of opportunity is established through
- the absence of having predetermined circumstances contribute to future
+ the absence of having pre-determined circumstances contribute to future
  outcomes.
  Therefore, inequality is a reflection of inequality of opportunity by stressing
  the unfair exogenous inputs as the (partly) determinant factors.
@@ -1305,6 +1332,7 @@ Asadullah and Yalonetzky (2013) as well as Gamboa and Waltenberg (2012)
 \end_layout
 
 \begin_layout Subsection*
+\paragraph_spacing double
 Impact evaluation in education
 \end_layout
 
@@ -1421,8 +1449,8 @@ is twofold.
 \series bold
 Essay 2 
 \series default
-deals with the question on to what extent the index of past exogenous circumstan
-ces connected to educational attainment affects the future outcomes.
+deals with the question on to what extent the past exogenous circumstances
+ connected to educational attainment affects the future outcomes.
  
 \end_layout
 
@@ -1591,7 +1619,7 @@ We reexamine the effect of economic development on the level of democracy
 \noindent
 
 \size small
-Based on a joint work with Inmaculada Martinez-Zarzoso and Thomas Kneib.
+Based on a joint work with Thomas Kneib and Inmaculada Martinez-Zarzoso.
 \end_layout
 
 \begin_layout Standard
@@ -1765,7 +1793,7 @@ For illustration purposes, Table 1.1 reports summary statistics of the variables
  Index and Polity IV data set as proxies for the level of democracy in a
  particular country
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Freedom House and Polity IV democracy variables are from Acemoglu et al.
@@ -22808,12 +22836,12 @@ Empirical evidence regarding this issue is still less explored.
 \paragraph_spacing double
 
 \color black
-Equality of opportunity could only be achieved when predetermined 
+Equality of opportunity could only be achieved when pre-determined 
 \shape italic
 circumstances 
 \shape default
 have no correlation with success in life (de Barros et al, 2008).
- In the case of education, predetermined 
+ In the case of education, pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -22839,7 +22867,7 @@ Among developing countries, evidence using PISA scores 2006 placed Indonesia
 \color black
 In this paper, we therefore focus on country level evidence using household
  data from the Indonesian Family Life Survey (IFLS), in order to quantify
- the role that the accumulation of predetermined 
+ the role that the accumulation of pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -22857,7 +22885,7 @@ We contribute to previous literature by devising an individual index of
 \shape italic
 circumstances
 \shape default
-, which explains the influence that the accumulation of predetermined 
+, which explains the influence that the accumulation of pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -22929,7 +22957,7 @@ The debate on the meaning of equality of opportunity in various income and
  addressed, described and translated into a mathematical formulation in
  John Roemer’s seminal book on equality of opportunity (1998).
  The main argument of Roemer was based on the distinction between unchosen
- and predetermined 
+ and pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -22981,7 +23009,6 @@ tranches
 effort 
 \shape default
 (Checchi and Peragine, 2010).
- 
 \end_layout
 
 \begin_layout Standard
@@ -23228,12 +23255,12 @@ when examining inequality of opportunity for educational attainments (where
 \paragraph_spacing double
 
 \color black
-Among the predetermined 
+Among the pre-determined 
 \shape italic
 circumstances 
 \shape default
 available, we therefore stick to variables that were also proposed in the
- precedent literature, ones that are truly “predetermined” and exogenous
+ precedent literature, ones that are truly “pre-determined” and exogenous
  and have a small rate of missing values to keep the attrition rate low.
  Those are parental education, represented by mother and father educational
  attainments, sex, rural or urban residence and dummies of household wealth
@@ -23252,7 +23279,7 @@ available, we therefore stick to variables that were also proposed in the
 
 \color black
 It is important to note that since all the variables included in this analysis
- are not all of the possible predetermined 
+ are not all of the possible pre-determined 
 \shape italic
 circumstances
 \shape default
@@ -23286,7 +23313,7 @@ A formal proof is provided in Ferreira and Gignoux (2011).
 \color black
 Further, we do not include age as one of the explanatory variables of educationa
 l attainments.
- We argue that regardless of whether age is truly exogenous and predetermined,
+ We argue that regardless of whether age is truly exogenous and pre-determined,
  it makes very little sense to consider it as a 
 \shape italic
 circumstance 
@@ -23447,7 +23474,7 @@ While the R-squared is able to measure the extent to which educational opportuni
 ties are distributed among a given groups at the aggregate level, there
  is one important question left.
  To what extent do we, as the researchers, use this measure? Ferreira and
- Gignoux (2014) have shown that the R-squared of predetermined 
+ Gignoux (2014) have shown that the R-squared of pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -23494,12 +23521,12 @@ For clarification,
 \begin_inset Formula $Y_{itc}$
 \end_inset
 
- in eq.3 is an estimated 
+ in eq.2.3 is an estimated 
 \begin_inset Formula $Y_{itc}$
 \end_inset
 
  in Eq.
- 2.
+ 2.2.
 \end_layout
 
 \end_inset
@@ -23619,9 +23646,9 @@ The R-squared of this model informs us of the extent to which the variation
 \color black
 The interpretation of this measure is quite straightforward.
  Fitted values are the part of individual educational attainment that is
- explained by individual predetermined circumstances.
+ explained by individual pre-determined circumstances.
  Fitted values also contain constant and the estimated parameter.
- But they are fixed terms so the distance between two obserevations remains
+ But they are fixed terms so the distance between two observations remains
  proportional and the distribution rank of the fitted values does not change.
  
 \end_layout
@@ -23630,7 +23657,7 @@ The interpretation of this measure is quite straightforward.
 \paragraph_spacing double
 
 \color black
-The higher value of predetermined 
+The higher value of pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -23638,7 +23665,7 @@ in the model, hence the higher the fitted values
 \begin_inset Formula $\hat{Y}$
 \end_inset
 
-, the stronger the effect of predetermined 
+, the stronger the effect of pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -23647,12 +23674,12 @@ as the source of inequality of opportunity at the individual level, contributes
  This one-to-one relationship is more understandable when the fitted values
  are tailored to the standardized range [0,100].
  Standardized fitted values zero represent the individuals with the lowest
- effect of predetermined 
+ effect of pre-determined 
 \shape italic
 circumstances
 \shape default
-, while the largest values map the ones with the highest effect of predetermined
- 
+, while the largest values map the ones with the highest effect of pre-determine
+d 
 \shape italic
 circumstances
 \shape default
@@ -23665,7 +23692,7 @@ status collapsed
 \begin_layout Plain Layout
 Concerning the importance of explanatory variables, it is crucial to note
  that unlike R-squared, fitted values cannot be adjusted.
- Instead, it purely relies on the coefficients of predetermined 
+ Instead, it purely relies on the coefficients of pre-determined 
 \shape italic
 \color black
 circumstances
@@ -23801,7 +23828,7 @@ Clustered standard errors.
 \begin_inset Formula $i$
 \end_inset
 
-, the predicted values are translated as the joint influence of predetermined
+, the predicted values are translated as the joint influence of pre-determined
  
 \shape italic
 circumstances 
@@ -23823,7 +23850,7 @@ deviation at time point
 status collapsed
 
 \begin_layout Plain Layout
-The deviation implies the magnitude of predetermined 
+The deviation implies the magnitude of pre-determined 
 \shape italic
 \color black
 circumstances 
@@ -23848,7 +23875,7 @@ affecting the outcomes, i.e.
 
 .
  In addition, deviation has two directions, negative and positive.
- Pursuing predetermined circumstances that affect the outcomes direction
+ Pursuing pre-determined circumstances that affect the outcomes direction
  might utilize this approach.
 \end_layout
 
@@ -24292,7 +24319,7 @@ Table 2.1 shows our estimates of the inequality of educational opportunity,
 \paragraph_spacing double
 
 \color black
-On average these figures suggests that predetermined 
+On average these figures suggests that pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -24359,7 +24386,7 @@ circumstances
 \paragraph_spacing double
 
 \size large
-Educational mobility and the role of predetermined circumstances in driving
+Educational mobility and the role of pre-determined circumstances in driving
  educational achievements
 \end_layout
 
@@ -24367,7 +24394,7 @@ Educational mobility and the role of predetermined circumstances in driving
 \paragraph_spacing double
 
 \color black
-This section aims at examining the influence of predetermined 
+This section aims at examining the influence of pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -24385,7 +24412,7 @@ in the educational attainments of the two cohorts of Indonesian students
 As a first explorative step we cover adults or individuals who graduated
  or dropped out since the first period of observation and apply a sequential
  response model (Maddala, 1983; Mare, 1981) in order to assess the association
- of predetermined circumstances with the decision of an individual to continue
+ of pre-determined circumstances with the decision of an individual to continue
  or to exit school at each level.
 \end_layout
 
@@ -24425,7 +24452,7 @@ See Figure B1 reported in the Appendix.
 \color black
 We therefore exploit the longitudinal dimension of our data by following
  individuals who either left of graduated from each school level by the
- last wave of the survey in order to assess the extent to which predetermined,
+ last wave of the survey in order to assess the extent to which pre-determined,
  inherited 
 \shape italic
 circumstances
@@ -24440,6 +24467,7 @@ circumstances
 
 \size large
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -24577,6 +24605,7 @@ ls sampled.
 
 \size large
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -24603,7 +24632,7 @@ Sequential Logit model for educational levels.
 
 \size large
 \begin_inset Graphics
-	filename final figure/table 2b.PNG
+	filename final figure/table 3.PNG
 	scale 80
 
 \end_inset
@@ -24649,6 +24678,7 @@ circumstance
 
 \size large
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -24718,7 +24748,7 @@ Persistence of unequal educational opportunities
 \color black
 We now turn to the inferential part of our analysis.
  It aims at unravelling the consequences of unequal opportunities in education
- because of exogenous predetermined circumstances has on a person’s future
+ because of exogenous pre-determined circumstances has on a person’s future
  life outcomes.
  
 \end_layout
@@ -24735,8 +24765,8 @@ efforts
 \shape italic
 circumstances 
 \shape default
-is a very meaningful exercise in that it can tell how large a role predetermined
- 
+is a very meaningful exercise in that it can tell how large a role pre-determine
+d 
 \shape italic
 circumstances 
 \shape default
@@ -24776,8 +24806,8 @@ ts (i.e.
 \paragraph_spacing double
 
 \color black
-As discussed in Section 2.3, we measure the deviation of predetermined circumstan
-ces in 2007 from its average over the periods of observation by the fitted
+As discussed in Section 2.3, we measure the deviation of pre-determined circumsta
+nces in 2007 from its average over the periods of observation by the fitted
  values of the educational achievement equation and, for the sake of interpretat
 ion, we normalize these fitted values in order to get an index which goes
  from 0 to 100.
@@ -24792,6 +24822,7 @@ ion, we normalize these fitted values in order to get an index which goes
 
 \size large
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -24835,7 +24866,7 @@ Persistence in inequality of opportunity and future educational achievements
 
 \color black
 As these results suggest a significant cumulated and persistent effect of
- predetermined 
+ pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -24857,7 +24888,7 @@ The coefficient on the effect of
 circumstances 
 \shape default
 index indicates the difference between observation with the lowest support
- of predetermined 
+ of pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -24948,6 +24979,7 @@ played in the allocation of educational rewards during adolescence and future
 
 \size large
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -25107,6 +25139,7 @@ On the other hand, the effectiveness of the allocation of provincial budgets
 
 \size large
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -25197,7 +25230,7 @@ circumstances
 \shape default
 ”) that account most for overall inequality of educational opportunity and
  found that parental educational background is one of the most important
- predetermined 
+ pre-determined 
 \shape italic
 circumstances 
 \shape default
@@ -25297,6 +25330,18 @@ et expenses, on education outcomes and household expenditure.
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \size small
 Based on a joint work with Stephan Klasen and Inmaculada Martinez-Zarzoso.
  
@@ -25309,7 +25354,7 @@ Based on a joint work with Stephan Klasen and Inmaculada Martinez-Zarzoso.
 \end_layout
 
 \begin_layout Subsection
-\paragraph_spacing single
+\paragraph_spacing double
 
 \color black
 Introduction
@@ -25366,7 +25411,7 @@ ive assessments on the impact of the previous programs were not adequate
 \size large
 
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -25417,14 +25462,14 @@ The paper is organized as follows.
 \end_layout
 
 \begin_layout Subsection
-\paragraph_spacing single
+\paragraph_spacing double
 
 \color black
 Literature Review
 \end_layout
 
 \begin_layout Subsubsection
-\paragraph_spacing single
+\paragraph_spacing double
 
 \size large
 \color black
@@ -25543,20 +25588,6 @@ There has been a lot of impact evaluation research concerning interventions
 Interventions can also have an impact on household expenditure.
  Das (2004) utilizes the maximization approach to evaluate the impact of
  government subsidies on inequality in educational expenditure.
- He argues that social planners who want to maximize the allocation of public
- subsidies aim to achieve equity of total educational expenditures for every
- agent.
- Given that the society is not equal in nature, adjustments to private spending
- depend on how the government tackles some issues.
- The first issue is that the implementation of tax redistribution policies
- by means of subsidies does not work well if the bureaucrats pursue different
- agendas.
- The second problem is whether the government is able to accurately target
- directly the needy households.
- If the government is incapable of accurately locating the recipients at
- the household level, the second best approach is targeting the school level.
- The last problem regards how households respond to the public subsidies
- with their own expenditure.
  His study from rural Zambia shows that when the cash is allocated with
  clear guidance and rules, and when the implementation considers the distributio
 n of wealth within and across different schools, the second best approach
@@ -25727,7 +25758,7 @@ Timeline of education subsidies
 \end_layout
 
 \begin_layout Subsubsection*
-\paragraph_spacing single
+\paragraph_spacing double
 
 \size normal
 \color black
@@ -25847,7 +25878,7 @@ To the best of our knowledge, a rigorous impact study of this program is
 \end_layout
 
 \begin_layout Subsubsection*
-\paragraph_spacing single
+\paragraph_spacing double
 
 \size normal
 \color black
@@ -25947,7 +25978,7 @@ The number of participants that attended BOS schools in 2006 was 39,700,000
  bills, remunerating local teachers and staffs, training teachers and compensati
 ng for students activities
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \paragraph_spacing double
@@ -26159,7 +26190,7 @@ Data and methodology
 \end_layout
 
 \begin_layout Subsubsection
-\paragraph_spacing single
+\paragraph_spacing double
 
 \size large
 \color black
@@ -26201,10 +26232,9 @@ We assign the observation as getting exposed to the intervention if the
 
 
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
-\paragraph_spacing double
 
 \color black
 see Table C1 in the Appendix for the complete questionnaire
@@ -26294,7 +26324,6 @@ Our exploratory analysis suggests that household educational expenditure
 status collapsed
 
 \begin_layout Plain Layout
-\paragraph_spacing double
 
 \color black
  All variables and their descriptive statistics are presented in Table C3
@@ -26307,7 +26336,7 @@ status collapsed
 \end_layout
 
 \begin_layout Subsubsection
-\paragraph_spacing single
+\paragraph_spacing double
 
 \size large
 \color black
@@ -26453,7 +26482,7 @@ Finally, we need to emphasize that we measure the marginal effects of the
 \end_layout
 
 \begin_layout Subsubsection*
-\paragraph_spacing single
+\paragraph_spacing double
 
 \size normal
 \color black
@@ -26790,7 +26819,7 @@ s to provide a more precise estimation of the matching.
 \end_layout
 
 \begin_layout Subsubsection*
-\paragraph_spacing single
+\paragraph_spacing double
 
 \size normal
 \color black
@@ -26956,7 +26985,7 @@ To add randomness, we introduce the second instrument.
 \end_layout
 
 \begin_layout Subsection
-\paragraph_spacing single
+\paragraph_spacing double
 
 \color black
 Results 
@@ -26976,7 +27005,7 @@ The results are presented in five parts.
 \end_layout
 
 \begin_layout Subsubsection
-\paragraph_spacing single
+\paragraph_spacing double
 
 \size large
 \color black
@@ -27548,6 +27577,14 @@ We also pay attention to the households with more than one children at the
  at the same school - which they usually do for the same level of education
  - that does not apply if siblings go to different schools.
  
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -27891,7 +27928,7 @@ participant
 \end_layout
 
 \begin_layout Subsubsection
-\paragraph_spacing single
+\paragraph_spacing double
 
 \size large
 \color black
@@ -29627,10 +29664,9 @@ Observation unit is students in 2007 who were still at school in 2006 when
 Figure 3.3 presents three graphs following a similar manner of Table 3.2 that
  separates the overall sample into grades 1-9 and grades 10-12
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
-\paragraph_spacing double
 
 \color black
 see Table C4 in the Appendix for the complete results
@@ -29669,10 +29705,9 @@ Moving to the graph in the middle panel for grades 1-9, we observe an identical
 \color black
 The assessment of BOS spillover effect is provided in Figure 3.4
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
-\paragraph_spacing double
 
 \color black
 see Table C5 in the Appendix for the complete results
@@ -29885,6 +29920,7 @@ The information from grades 1-9 is quite similar to the information from
 \begin_layout Standard
 \paragraph_spacing double
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -31504,33 +31540,9 @@ Figure 3.6 shows the DiD for two treatment groups - BOS and BOS with individual
 \begin_layout Standard
 \paragraph_spacing double
 
-\color black
-As was the case for score, there in no significant DiD between BOS with
- and without transfer.
- The positive effect of intervention, therefore, is most likely rooted from
- the school grant that expands the access of education through the offer
- of lower or even no tuition fees and abolish other administration fees.
- As for the comparison with control group, both treatments show no significant
- DiD either.
- Moreover, the control group always has a relatively higher educational
- attainment that fits the description of what rich private schools typically
- perform.
- It indicates that the performance of subsidies capacity did not achieve
- the same level of what the private spending does on attainment.
- Yet, it might be worse without the subsidies.
- In addition to that, there is a concern that the household adjust their
- educational spending back to the level before receiving the transfer.
- If this is the case, it might explain why the transfer does not effectively
- increase the attainment.
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing double
-
 \size large
 \color black
 \begin_inset Float figure
-placement H
 wide false
 sideways false
 status open
@@ -31575,7 +31587,6 @@ Treatment group: receiving the transfer.
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing double
 
 \size large
 \color black
@@ -31626,6 +31637,29 @@ Treatment groups: (i) attending BOS school and receiving the transfer; (ii)
 
 \end_layout
 
+\begin_layout Standard
+\paragraph_spacing double
+
+\color black
+As was the case for score, there in no significant DiD between BOS with
+ and without transfer.
+ The positive effect of intervention, therefore, is most likely rooted from
+ the school grant that expands the access of education through the offer
+ of lower or even no tuition fees and abolish other administration fees.
+ As for the comparison with control group, both treatments show no significant
+ DiD either.
+ Moreover, the control group always has a relatively higher educational
+ attainment that fits the description of what rich private schools typically
+ perform.
+ It indicates that the performance of subsidies capacity did not achieve
+ the same level of what the private spending does on attainment.
+ Yet, it might be worse without the subsidies.
+ In addition to that, there is a concern that the household adjust their
+ educational spending back to the level before receiving the transfer.
+ If this is the case, it might explain why the transfer does not effectively
+ increase the attainment.
+\end_layout
+
 \begin_layout Subsubsection
 \paragraph_spacing single
 
@@ -31673,6 +31707,7 @@ When examining the subsamples, we observe that results from the overall
 \begin_layout Standard
 \paragraph_spacing double
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -34649,18 +34684,8 @@ Testing the spillover effect reveals that the effect of BOS with and without
 
 \size large
 \color black
-\begin_inset VSpace defskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing double
-
-\size large
-\color black
 \begin_inset Float figure
+placement H
 wide false
 sideways false
 status open
